@@ -1,0 +1,12 @@
+astropy>=2.0.1
+commands
+matplotlib>=2.0
+mlxtend>=0.7.0
+numpy>=1.8.2
+pandas>=0.20.3
+pydotplus>=2.0.2
+rapidjson
+requests
+scikit-learn>=0.19b2
+scipy>=0.13.3
+seaborn>=0.8
